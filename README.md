@@ -9,3 +9,4 @@
 #### The "edXcourses_working" python notebook shows the code used to clean and manipulate the scraped data, and then perform some basic visualizations and data analysis. 
 #### The .pkl file contains the master dataframe used for all visualizations and analysis. This file has already undergone the cleaning and manipulating process outlined in "edXcourses_working".
 #### The .csv file contains the initial scraped data from edX, with some minor tweaks.
+#### The pdf contains a presentation outlining the process and findings.
